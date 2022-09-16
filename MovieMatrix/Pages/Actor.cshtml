@@ -1,0 +1,32 @@
+
+@page
+@model ActorModel
+
+@{
+    string Actor_pic = "https://image.tmdb.org/t/p/w500" + @Model.castPics;
+ 
+}
+
+<div id="ActorImg">
+<div id="ActorImage" style="background: url(@Actor_pic); 
+        background-size: contain; background-repeat: no-repeat;"></div>
+
+        <div id="ActorInfoBackground"></div>
+             <div id="ActorInfo">
+                         <h1 id="HeaderActorname" >@Model.castName</h1>
+                         
+                         <h3>From: @Model.castOrigin</h3>
+                         <h3>Born on: @Model.castDOB</h3>
+                         <br>
+                         <div id="actorbio" ><h4 id="HeaderActorBio">@Model.castBio</h4></div>
+                         <br>
+                         <div id="actorimage" >@Model.castImg</div>
+        </div>
+  </div>      
+
+  
+                   
+       
+
+ 
+

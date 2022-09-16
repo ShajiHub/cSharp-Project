@@ -1,0 +1,114 @@
+C:\Users\alien\OneDrive\Desktop\IntroCSharpAug2021_Online\ClassProject\MovieMatrix\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\alien\OneDrive\Desktop\IntroCSharpAug2021_Online\ClassProject\MovieMatrix\bin\Debug\net5.0\appsettings.json
+C:\Users\alien\OneDrive\Desktop\IntroCSharpAug2021_Online\ClassProject\MovieMatrix\bin\Debug\net5.0\MovieMatrix.exe
+C:\Users\alien\OneDrive\Desktop\IntroCSharpAug2021_Online\ClassProject\MovieMatrix\bin\Debug\net5.0\MovieMatrix.deps.json
+C:\Users\alien\OneDrive\Desktop\IntroCSharpAug2021_Online\ClassProject\MovieMatrix\bin\Debug\net5.0\MovieMatrix.runtimeconfig.json
+C:\Users\alien\OneDrive\Desktop\IntroCSharpAug2021_Online\ClassProject\MovieMatrix\bin\Debug\net5.0\MovieMatrix.runtimeconfig.dev.json
+C:\Users\alien\OneDrive\Desktop\IntroCSharpAug2021_Online\ClassProject\MovieMatrix\bin\Debug\net5.0\MovieMatrix.dll
+C:\Users\alien\OneDrive\Desktop\IntroCSharpAug2021_Online\ClassProject\MovieMatrix\bin\Debug\net5.0\ref\MovieMatrix.dll
+C:\Users\alien\OneDrive\Desktop\IntroCSharpAug2021_Online\ClassProject\MovieMatrix\bin\Debug\net5.0\MovieMatrix.pdb
+C:\Users\alien\OneDrive\Desktop\IntroCSharpAug2021_Online\ClassProject\MovieMatrix\bin\Debug\net5.0\MovieMatrix.Views.dll
+C:\Users\alien\OneDrive\Desktop\IntroCSharpAug2021_Online\ClassProject\MovieMatrix\bin\Debug\net5.0\MovieMatrix.Views.pdb
+C:\Users\alien\OneDrive\Desktop\IntroCSharpAug2021_Online\ClassProject\MovieMatrix\obj\Debug\net5.0\MovieMatrix.csproj.AssemblyReference.cache
+C:\Users\alien\OneDrive\Desktop\IntroCSharpAug2021_Online\ClassProject\MovieMatrix\obj\Debug\net5.0\MovieMatrix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alien\OneDrive\Desktop\IntroCSharpAug2021_Online\ClassProject\MovieMatrix\obj\Debug\net5.0\MovieMatrix.AssemblyInfoInputs.cache
+C:\Users\alien\OneDrive\Desktop\IntroCSharpAug2021_Online\ClassProject\MovieMatrix\obj\Debug\net5.0\MovieMatrix.AssemblyInfo.cs
+C:\Users\alien\OneDrive\Desktop\IntroCSharpAug2021_Online\ClassProject\MovieMatrix\obj\Debug\net5.0\MovieMatrix.csproj.CoreCompileInputs.cache
+C:\Users\alien\OneDrive\Desktop\IntroCSharpAug2021_Online\ClassProject\MovieMatrix\obj\Debug\net5.0\MovieMatrix.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\alien\OneDrive\Desktop\IntroCSharpAug2021_Online\ClassProject\MovieMatrix\obj\Debug\net5.0\MovieMatrix.RazorAssemblyInfo.cache
+C:\Users\alien\OneDrive\Desktop\IntroCSharpAug2021_Online\ClassProject\MovieMatrix\obj\Debug\net5.0\MovieMatrix.RazorAssemblyInfo.cs
+C:\Users\alien\OneDrive\Desktop\IntroCSharpAug2021_Online\ClassProject\MovieMatrix\obj\Debug\net5.0\staticwebassets\MovieMatrix.StaticWebAssets.Manifest.cache
+C:\Users\alien\OneDrive\Desktop\IntroCSharpAug2021_Online\ClassProject\MovieMatrix\obj\Debug\net5.0\staticwebassets\MovieMatrix.StaticWebAssets.xml
+C:\Users\alien\OneDrive\Desktop\IntroCSharpAug2021_Online\ClassProject\MovieMatrix\obj\Debug\net5.0\scopedcss\bundle\MovieMatrix.styles.css
+C:\Users\alien\OneDrive\Desktop\IntroCSharpAug2021_Online\ClassProject\MovieMatrix\obj\Debug\net5.0\MovieMatrix.TagHelpers.input.cache
+C:\Users\alien\OneDrive\Desktop\IntroCSharpAug2021_Online\ClassProject\MovieMatrix\obj\Debug\net5.0\MovieMatrix.TagHelpers.output.cache
+C:\Users\alien\OneDrive\Desktop\IntroCSharpAug2021_Online\ClassProject\MovieMatrix\obj\Debug\net5.0\MovieMatrix.RazorCoreGenerate.cache
+C:\Users\alien\OneDrive\Desktop\IntroCSharpAug2021_Online\ClassProject\MovieMatrix\obj\Debug\net5.0\Razor\Pages\Index.cshtml.g.cs
+C:\Users\alien\OneDrive\Desktop\IntroCSharpAug2021_Online\ClassProject\MovieMatrix\obj\Debug\net5.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\alien\OneDrive\Desktop\IntroCSharpAug2021_Online\ClassProject\MovieMatrix\obj\Debug\net5.0\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\alien\OneDrive\Desktop\IntroCSharpAug2021_Online\ClassProject\MovieMatrix\obj\Debug\net5.0\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\alien\OneDrive\Desktop\IntroCSharpAug2021_Online\ClassProject\MovieMatrix\obj\Debug\net5.0\MovieMatrix.RazorTargetAssemblyInfo.cache
+C:\Users\alien\OneDrive\Desktop\IntroCSharpAug2021_Online\ClassProject\MovieMatrix\obj\Debug\net5.0\MovieMatrix.RazorTargetAssemblyInfo.cs
+C:\Users\alien\OneDrive\Desktop\IntroCSharpAug2021_Online\ClassProject\MovieMatrix\obj\Debug\net5.0\MovieMatrix.Views.pdb
+C:\Users\alien\OneDrive\Desktop\IntroCSharpAug2021_Online\ClassProject\MovieMatrix\obj\Debug\net5.0\MovieMatrix.dll
+C:\Users\alien\OneDrive\Desktop\IntroCSharpAug2021_Online\ClassProject\MovieMatrix\obj\Debug\net5.0\ref\MovieMatrix.dll
+C:\Users\alien\OneDrive\Desktop\IntroCSharpAug2021_Online\ClassProject\MovieMatrix\obj\Debug\net5.0\MovieMatrix.pdb
+C:\Users\alien\OneDrive\Desktop\IntroCSharpAug2021_Online\ClassProject\MovieMatrix\obj\Debug\net5.0\MovieMatrix.genruntimeconfig.cache
+C:\Users\alien\OneDrive\Desktop\IntroCSharpAug2021_Online\ClassProject\MovieMatrix\obj\Debug\net5.0\MovieMatrix.csproj.CopyComplete
+C:\Users\alien\OneDrive\Desktop\IntroCSharpAug2021_Online\ClassProject\MovieMatrix\obj\Debug\net5.0\Razor\Pages\Actor.cshtml.g.cs
+G:\Trios classes\C-Sharp Programming\CSharp_Programming - 31 aug\MovieMatrix\MovieMatrix\bin\Debug\net5.0\appsettings.Development.json
+G:\Trios classes\C-Sharp Programming\CSharp_Programming - 31 aug\MovieMatrix\MovieMatrix\bin\Debug\net5.0\appsettings.json
+G:\Trios classes\C-Sharp Programming\CSharp_Programming - 31 aug\MovieMatrix\MovieMatrix\bin\Debug\net5.0\MovieMatrix.exe
+G:\Trios classes\C-Sharp Programming\CSharp_Programming - 31 aug\MovieMatrix\MovieMatrix\bin\Debug\net5.0\MovieMatrix.deps.json
+G:\Trios classes\C-Sharp Programming\CSharp_Programming - 31 aug\MovieMatrix\MovieMatrix\bin\Debug\net5.0\MovieMatrix.runtimeconfig.json
+G:\Trios classes\C-Sharp Programming\CSharp_Programming - 31 aug\MovieMatrix\MovieMatrix\bin\Debug\net5.0\MovieMatrix.runtimeconfig.dev.json
+G:\Trios classes\C-Sharp Programming\CSharp_Programming - 31 aug\MovieMatrix\MovieMatrix\bin\Debug\net5.0\MovieMatrix.dll
+G:\Trios classes\C-Sharp Programming\CSharp_Programming - 31 aug\MovieMatrix\MovieMatrix\bin\Debug\net5.0\ref\MovieMatrix.dll
+G:\Trios classes\C-Sharp Programming\CSharp_Programming - 31 aug\MovieMatrix\MovieMatrix\bin\Debug\net5.0\MovieMatrix.pdb
+G:\Trios classes\C-Sharp Programming\CSharp_Programming - 31 aug\MovieMatrix\MovieMatrix\bin\Debug\net5.0\MovieMatrix.Views.dll
+G:\Trios classes\C-Sharp Programming\CSharp_Programming - 31 aug\MovieMatrix\MovieMatrix\bin\Debug\net5.0\MovieMatrix.Views.pdb
+G:\Trios classes\C-Sharp Programming\CSharp_Programming - 31 aug\MovieMatrix\MovieMatrix\obj\Debug\net5.0\MovieMatrix.csproj.AssemblyReference.cache
+G:\Trios classes\C-Sharp Programming\CSharp_Programming - 31 aug\MovieMatrix\MovieMatrix\obj\Debug\net5.0\MovieMatrix.GeneratedMSBuildEditorConfig.editorconfig
+G:\Trios classes\C-Sharp Programming\CSharp_Programming - 31 aug\MovieMatrix\MovieMatrix\obj\Debug\net5.0\MovieMatrix.AssemblyInfoInputs.cache
+G:\Trios classes\C-Sharp Programming\CSharp_Programming - 31 aug\MovieMatrix\MovieMatrix\obj\Debug\net5.0\MovieMatrix.AssemblyInfo.cs
+G:\Trios classes\C-Sharp Programming\CSharp_Programming - 31 aug\MovieMatrix\MovieMatrix\obj\Debug\net5.0\MovieMatrix.csproj.CoreCompileInputs.cache
+G:\Trios classes\C-Sharp Programming\CSharp_Programming - 31 aug\MovieMatrix\MovieMatrix\obj\Debug\net5.0\MovieMatrix.MvcApplicationPartsAssemblyInfo.cache
+G:\Trios classes\C-Sharp Programming\CSharp_Programming - 31 aug\MovieMatrix\MovieMatrix\obj\Debug\net5.0\MovieMatrix.RazorAssemblyInfo.cache
+G:\Trios classes\C-Sharp Programming\CSharp_Programming - 31 aug\MovieMatrix\MovieMatrix\obj\Debug\net5.0\MovieMatrix.RazorAssemblyInfo.cs
+G:\Trios classes\C-Sharp Programming\CSharp_Programming - 31 aug\MovieMatrix\MovieMatrix\obj\Debug\net5.0\staticwebassets\MovieMatrix.StaticWebAssets.Manifest.cache
+G:\Trios classes\C-Sharp Programming\CSharp_Programming - 31 aug\MovieMatrix\MovieMatrix\obj\Debug\net5.0\staticwebassets\MovieMatrix.StaticWebAssets.xml
+G:\Trios classes\C-Sharp Programming\CSharp_Programming - 31 aug\MovieMatrix\MovieMatrix\obj\Debug\net5.0\scopedcss\bundle\MovieMatrix.styles.css
+G:\Trios classes\C-Sharp Programming\CSharp_Programming - 31 aug\MovieMatrix\MovieMatrix\obj\Debug\net5.0\MovieMatrix.TagHelpers.input.cache
+G:\Trios classes\C-Sharp Programming\CSharp_Programming - 31 aug\MovieMatrix\MovieMatrix\obj\Debug\net5.0\MovieMatrix.TagHelpers.output.cache
+G:\Trios classes\C-Sharp Programming\CSharp_Programming - 31 aug\MovieMatrix\MovieMatrix\obj\Debug\net5.0\MovieMatrix.RazorCoreGenerate.cache
+G:\Trios classes\C-Sharp Programming\CSharp_Programming - 31 aug\MovieMatrix\MovieMatrix\obj\Debug\net5.0\Razor\Pages\Actor.cshtml.g.cs
+G:\Trios classes\C-Sharp Programming\CSharp_Programming - 31 aug\MovieMatrix\MovieMatrix\obj\Debug\net5.0\Razor\Pages\Index.cshtml.g.cs
+G:\Trios classes\C-Sharp Programming\CSharp_Programming - 31 aug\MovieMatrix\MovieMatrix\obj\Debug\net5.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
+G:\Trios classes\C-Sharp Programming\CSharp_Programming - 31 aug\MovieMatrix\MovieMatrix\obj\Debug\net5.0\Razor\Pages\_ViewImports.cshtml.g.cs
+G:\Trios classes\C-Sharp Programming\CSharp_Programming - 31 aug\MovieMatrix\MovieMatrix\obj\Debug\net5.0\Razor\Pages\_ViewStart.cshtml.g.cs
+G:\Trios classes\C-Sharp Programming\CSharp_Programming - 31 aug\MovieMatrix\MovieMatrix\obj\Debug\net5.0\MovieMatrix.RazorTargetAssemblyInfo.cache
+G:\Trios classes\C-Sharp Programming\CSharp_Programming - 31 aug\MovieMatrix\MovieMatrix\obj\Debug\net5.0\MovieMatrix.RazorTargetAssemblyInfo.cs
+G:\Trios classes\C-Sharp Programming\CSharp_Programming - 31 aug\MovieMatrix\MovieMatrix\obj\Debug\net5.0\MovieMatrix.Views.pdb
+G:\Trios classes\C-Sharp Programming\CSharp_Programming - 31 aug\MovieMatrix\MovieMatrix\obj\Debug\net5.0\MovieMatrix.dll
+G:\Trios classes\C-Sharp Programming\CSharp_Programming - 31 aug\MovieMatrix\MovieMatrix\obj\Debug\net5.0\ref\MovieMatrix.dll
+G:\Trios classes\C-Sharp Programming\CSharp_Programming - 31 aug\MovieMatrix\MovieMatrix\obj\Debug\net5.0\MovieMatrix.pdb
+G:\Trios classes\C-Sharp Programming\CSharp_Programming - 31 aug\MovieMatrix\MovieMatrix\obj\Debug\net5.0\MovieMatrix.genruntimeconfig.cache
+G:\Trios classes\C-Sharp Programming\CSharp_Programming - 31 aug\MovieMatrix\MovieMatrix\obj\Debug\net5.0\MovieMatrix.csproj.CopyComplete
+G:\Trios classes\C-Sharp Programming\Final CSharp project\MovieMatrix (1)\MovieMatrix\MovieMatrix\bin\Debug\net5.0\appsettings.Development.json
+G:\Trios classes\C-Sharp Programming\Final CSharp project\MovieMatrix (1)\MovieMatrix\MovieMatrix\bin\Debug\net5.0\appsettings.json
+G:\Trios classes\C-Sharp Programming\Final CSharp project\MovieMatrix (1)\MovieMatrix\MovieMatrix\bin\Debug\net5.0\MovieMatrix.exe
+G:\Trios classes\C-Sharp Programming\Final CSharp project\MovieMatrix (1)\MovieMatrix\MovieMatrix\bin\Debug\net5.0\MovieMatrix.deps.json
+G:\Trios classes\C-Sharp Programming\Final CSharp project\MovieMatrix (1)\MovieMatrix\MovieMatrix\bin\Debug\net5.0\MovieMatrix.runtimeconfig.json
+G:\Trios classes\C-Sharp Programming\Final CSharp project\MovieMatrix (1)\MovieMatrix\MovieMatrix\bin\Debug\net5.0\MovieMatrix.runtimeconfig.dev.json
+G:\Trios classes\C-Sharp Programming\Final CSharp project\MovieMatrix (1)\MovieMatrix\MovieMatrix\bin\Debug\net5.0\MovieMatrix.dll
+G:\Trios classes\C-Sharp Programming\Final CSharp project\MovieMatrix (1)\MovieMatrix\MovieMatrix\bin\Debug\net5.0\ref\MovieMatrix.dll
+G:\Trios classes\C-Sharp Programming\Final CSharp project\MovieMatrix (1)\MovieMatrix\MovieMatrix\bin\Debug\net5.0\MovieMatrix.pdb
+G:\Trios classes\C-Sharp Programming\Final CSharp project\MovieMatrix (1)\MovieMatrix\MovieMatrix\bin\Debug\net5.0\MovieMatrix.Views.dll
+G:\Trios classes\C-Sharp Programming\Final CSharp project\MovieMatrix (1)\MovieMatrix\MovieMatrix\bin\Debug\net5.0\MovieMatrix.Views.pdb
+G:\Trios classes\C-Sharp Programming\Final CSharp project\MovieMatrix (1)\MovieMatrix\MovieMatrix\obj\Debug\net5.0\MovieMatrix.csproj.AssemblyReference.cache
+G:\Trios classes\C-Sharp Programming\Final CSharp project\MovieMatrix (1)\MovieMatrix\MovieMatrix\obj\Debug\net5.0\MovieMatrix.GeneratedMSBuildEditorConfig.editorconfig
+G:\Trios classes\C-Sharp Programming\Final CSharp project\MovieMatrix (1)\MovieMatrix\MovieMatrix\obj\Debug\net5.0\MovieMatrix.AssemblyInfoInputs.cache
+G:\Trios classes\C-Sharp Programming\Final CSharp project\MovieMatrix (1)\MovieMatrix\MovieMatrix\obj\Debug\net5.0\MovieMatrix.AssemblyInfo.cs
+G:\Trios classes\C-Sharp Programming\Final CSharp project\MovieMatrix (1)\MovieMatrix\MovieMatrix\obj\Debug\net5.0\MovieMatrix.csproj.CoreCompileInputs.cache
+G:\Trios classes\C-Sharp Programming\Final CSharp project\MovieMatrix (1)\MovieMatrix\MovieMatrix\obj\Debug\net5.0\MovieMatrix.MvcApplicationPartsAssemblyInfo.cache
+G:\Trios classes\C-Sharp Programming\Final CSharp project\MovieMatrix (1)\MovieMatrix\MovieMatrix\obj\Debug\net5.0\MovieMatrix.RazorAssemblyInfo.cache
+G:\Trios classes\C-Sharp Programming\Final CSharp project\MovieMatrix (1)\MovieMatrix\MovieMatrix\obj\Debug\net5.0\MovieMatrix.RazorAssemblyInfo.cs
+G:\Trios classes\C-Sharp Programming\Final CSharp project\MovieMatrix (1)\MovieMatrix\MovieMatrix\obj\Debug\net5.0\staticwebassets\MovieMatrix.StaticWebAssets.Manifest.cache
+G:\Trios classes\C-Sharp Programming\Final CSharp project\MovieMatrix (1)\MovieMatrix\MovieMatrix\obj\Debug\net5.0\staticwebassets\MovieMatrix.StaticWebAssets.xml
+G:\Trios classes\C-Sharp Programming\Final CSharp project\MovieMatrix (1)\MovieMatrix\MovieMatrix\obj\Debug\net5.0\scopedcss\bundle\MovieMatrix.styles.css
+G:\Trios classes\C-Sharp Programming\Final CSharp project\MovieMatrix (1)\MovieMatrix\MovieMatrix\obj\Debug\net5.0\MovieMatrix.TagHelpers.input.cache
+G:\Trios classes\C-Sharp Programming\Final CSharp project\MovieMatrix (1)\MovieMatrix\MovieMatrix\obj\Debug\net5.0\MovieMatrix.TagHelpers.output.cache
+G:\Trios classes\C-Sharp Programming\Final CSharp project\MovieMatrix (1)\MovieMatrix\MovieMatrix\obj\Debug\net5.0\MovieMatrix.RazorCoreGenerate.cache
+G:\Trios classes\C-Sharp Programming\Final CSharp project\MovieMatrix (1)\MovieMatrix\MovieMatrix\obj\Debug\net5.0\Razor\Pages\Actor.cshtml.g.cs
+G:\Trios classes\C-Sharp Programming\Final CSharp project\MovieMatrix (1)\MovieMatrix\MovieMatrix\obj\Debug\net5.0\Razor\Pages\Index.cshtml.g.cs
+G:\Trios classes\C-Sharp Programming\Final CSharp project\MovieMatrix (1)\MovieMatrix\MovieMatrix\obj\Debug\net5.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
+G:\Trios classes\C-Sharp Programming\Final CSharp project\MovieMatrix (1)\MovieMatrix\MovieMatrix\obj\Debug\net5.0\Razor\Pages\_ViewImports.cshtml.g.cs
+G:\Trios classes\C-Sharp Programming\Final CSharp project\MovieMatrix (1)\MovieMatrix\MovieMatrix\obj\Debug\net5.0\Razor\Pages\_ViewStart.cshtml.g.cs
+G:\Trios classes\C-Sharp Programming\Final CSharp project\MovieMatrix (1)\MovieMatrix\MovieMatrix\obj\Debug\net5.0\MovieMatrix.RazorTargetAssemblyInfo.cache
+G:\Trios classes\C-Sharp Programming\Final CSharp project\MovieMatrix (1)\MovieMatrix\MovieMatrix\obj\Debug\net5.0\MovieMatrix.RazorTargetAssemblyInfo.cs
+G:\Trios classes\C-Sharp Programming\Final CSharp project\MovieMatrix (1)\MovieMatrix\MovieMatrix\obj\Debug\net5.0\MovieMatrix.Views.pdb
+G:\Trios classes\C-Sharp Programming\Final CSharp project\MovieMatrix (1)\MovieMatrix\MovieMatrix\obj\Debug\net5.0\MovieMatrix.dll
+G:\Trios classes\C-Sharp Programming\Final CSharp project\MovieMatrix (1)\MovieMatrix\MovieMatrix\obj\Debug\net5.0\ref\MovieMatrix.dll
+G:\Trios classes\C-Sharp Programming\Final CSharp project\MovieMatrix (1)\MovieMatrix\MovieMatrix\obj\Debug\net5.0\MovieMatrix.pdb
+G:\Trios classes\C-Sharp Programming\Final CSharp project\MovieMatrix (1)\MovieMatrix\MovieMatrix\obj\Debug\net5.0\MovieMatrix.genruntimeconfig.cache
+G:\Trios classes\C-Sharp Programming\Final CSharp project\MovieMatrix (1)\MovieMatrix\MovieMatrix\obj\Debug\net5.0\MovieMatrix.csproj.CopyComplete

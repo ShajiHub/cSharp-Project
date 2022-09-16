@@ -1,0 +1,75 @@
+
+
+// Thursday Aug 19th
+
+    - looked at TMDB (created an API account w/key)
+    - looked at Postman - 
+        ran a sample API call this gave JSON data
+    - looked at website json2csharp.com that displayed
+      the classes that data would need! *copied the 
+      JSON data from Postman and converted it to classes
+
+    - created our project application
+    - removed extra fluff
+    - created our Fetch.cs (will be used for API calls)
+    - added a search textbox
+    - sent that string to a method, that called our 
+      fetch.Search()
+    - saw the RAW JSON data in string form returned 👍
+
+
+
+// Friday Aug 20th
+
+    - take the raw JSON parse it (magic!)
+    - populate our classes to hold that data
+    - read through the data and display the details
+    - a bit of CSS to have the posters look nice!
+    - added an asp-page-handler for Details(movieID)
+    - added a GetDetails() method in the Fetch.cs
+    - added a collection to Postman and then 
+      added a 'new request' and set up our movieSearch
+      request sample
+    - did not get a new 🪑
+
+    
+
+// Monday Aug 23rd
+
+    - repeated all the steps (back to front)
+    - looked at TMDB API documentation 👍
+    - created out GetDetails API call in Postman
+    - ran the API in Postman
+    - copied JSON to convertor site
+    - created our classes to match!
+    - copied previous API fetch code 
+    - modified code to fit our new model(Posterset => Movie)
+    - create strings/data in page behind to 
+      rep what we wanted to display
+    - added Razor code to get info from code-behind
+    - worked on Movie Details page/section layout
+    - Marcio directed us in our CSS efforts while the 
+      villians tried to stop him, but Marcio prevailed! 😍
+
+
+
+// Tuesday Aug 24th
+
+    - fixed minor layout issues/with CSS
+    - added another API call for credits
+    - added models for Credits => Cast = Crew 
+    - displayed a scrollable list of actors w/images
+    - discovered our inner passion for CSS 😼
+
+
+// Wed 
+
+
+// Thursday Aug 26th
+
+    - youtube embed code link sample: https://youtu.be/6UFQi2Oj4Vc
+
+
+
+
+    

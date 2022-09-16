@@ -1,0 +1,464 @@
+﻿
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Kaushan+Script&display=swap');
+
+*, html {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+body {
+  background: rgb(7, 0, 14);
+  background-image: url("https://images.pexels.com/photos/4722577/pexels-photo-4722577.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260");
+ 
+  background-repeat: no-repeat;
+  background-position:inherit;
+}
+span.Home{
+  
+float:left;
+
+}
+Img{
+ padding-left: 10px;
+  padding-right: 10px;
+  padding-bottom: 10px;
+  padding-top: 10px;
+}
+
+a {
+
+  text-indent: 5em;
+  position: relative;
+	padding-right: 10px;
+	padding-left: 20px;
+}
+header {
+  width: 100%;
+  height: 450px;
+
+  margin: 0 auto;
+  background: url("https://images.pexels.com/photos/4340053/pexels-photo-4340053.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260");
+  background-size: cover;
+
+  background-position: right;
+  background-position-y: -1160px;
+  background-repeat: no-repeat;
+  padding: 45px;
+  border-color: #173b09;
+    box-shadow: 0 0 10px #cccebe;
+}
+  header > h1 {
+    color: rgb(218, 223, 180);
+    font-size: 8.2rem;
+    font-family: 'Dancing Script', cursive;
+    text-shadow: 3px 3px rgba(0, 0, 0, .42);
+    -webkit-text-stroke-width: .2px;
+    -webkit-text-stroke-color: rgb(11, 5, 85);
+    color: #9abde2;
+    animation: glow .08s ease-in-out infinite alternate;
+
+  }
+  header > h4 {
+    color: rgb(216, 201, 201);
+    font-family: 'Kaushan Script', cursive;
+    font-size: 2.6rem;
+    -webkit-text-stroke-width: 0.1px;
+    -webkit-text-stroke-color: rgb(99, 44, 44);
+    color: #b39ac4;
+    animation: glow .08s ease-in-out infinite alternate;
+
+  }
+#search {
+  text-align: center;
+  padding: 60px;
+}
+  #searchBox {
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 1.3rem;
+    padding-left: 8px;
+    border-radius: 4px;
+    border: 1px solid rgb(171, 197, 191);
+    border-bottom-style:groove;
+    border-color: #1e500c;
+    box-shadow: 0 0 25px #a5a891;
+ 
+  }
+#upcoming {
+
+  margin: auto auto;
+  text-align: center;
+  padding: 75px;
+}
+  .upcomingThumb {
+    display: inline-block;
+    margin: 0 auto;
+    border-radius: 4px;
+    border: 1px solid rgb(44, 44, 25);
+    margin: 5px;
+    cursor: pointer;
+    border-color: #173b09;
+    box-shadow: 0 0 25px #cccebe;
+  }
+  .upcomingThumbButton {
+    width: 180px;
+    height: 260px;
+    cursor: pointer;
+    opacity: 0;
+  }
+#posters {
+  margin: 0 auto;
+  width: 100%;
+  text-align: center;
+}
+  .thumb {
+    margin: 0 auto;
+    display: inline-block;
+    border-radius: 4px;
+    border: 1px solid rgb(44, 44, 25);
+    margin: 5px;
+    cursor: pointer;
+    border-color: #173b09;
+    box-shadow: 0 0 25px #cccebe;
+  }
+  .thumbButton {
+    margin: 0 auto;
+    width: 200px;
+    height: 300px;
+    cursor: pointer;
+    opacity: 0;
+  }
+#details {
+    margin: 0 auto;
+    position:absolute;
+    bottom:-480px;
+    width: 100%;
+    height: 1100px;
+    margin: 0 auto;
+    padding: 10px;
+    font-size: 1.3rem;
+    border: 1px solid rgb(44, 44, 25);
+    border-color: #1e500c;
+    box-shadow: 0 0 30px #a5a891;
+}
+  #detailsCover {
+    margin: 0 auto;
+    width: 100%;
+    height: 800px;
+    background: rgba(80, 70, 70, 0.67);
+    padding: 50px;
+    border-radius: 23px;
+   
+    border: 1px solid rgb(44, 44, 25);
+    border-color: #1e500c;
+    box-shadow: 0 0 30px #a5a891;
+  }
+  .fullsizedPoster {
+    margin: 0 auto;
+    width: 338px;
+    height: 504px;
+
+    border-radius: 12px;
+    border: 2px solid #fff;
+    border: 1px solid rgb(44, 44, 25);
+    border-color: #1e500c;
+    box-shadow: 0 0 30px #a5a891;
+
+    -webkit-animation: breathing 3s infinite;
+    animation: breathing 5s infinite;
+  }
+  #leftDetails {
+    position:absolute;
+    left:5px;
+    margin: 0 auto;
+    width: 20%;
+    float: left;
+   
+    -webkit-text-stroke-width: 0.3px;
+    -webkit-text-stroke-color: rgb(27, 5, 5);
+    color: #44442f;
+   
+  }
+  #rightDetails {
+    margin: 0 auto;
+    width: 100%;
+    position:absolute;
+    top:20px;
+    left:380px;
+    padding: 50px;
+    text-align:justify;
+    float: left;
+    font-size: 1.1em;
+    -webkit-text-stroke-width: 0.3px;
+    -webkit-text-stroke-color: rgb(27, 5, 5);
+    color: #0f0f0e;
+    animation: glow .08s ease-in-out infinite alternate;
+  
+  }
+    .heroText {
+      margin: 0 auto;
+      font-size: 2rem;
+      font-weight: 700;
+      color: rgb(76, 8, 236);
+      -webkit-text-stroke-width: 0.3px;
+    -webkit-text-stroke-color: rgb(27, 5, 5);
+    color: #0f0f0e;
+  
+      
+    }
+    #castSlider {
+      margin: 0 auto;
+      width: 75%;
+      position:absolute;
+    
+    
+      height: 300px;
+      white-space: nowrap;
+      padding-top: 10px;
+      overflow-y: hidden;
+      
+      margin-top: 50px;
+    }
+      .castCard {
+        margin: 0 auto;
+        height: 250px;
+        display: inline-block;
+        overflow: hidden;
+        margin: 7px;
+       
+        border-radius: 8px;
+        
+      }
+        .castImage {
+          margin: 0 auto;
+          width: 200px;
+          background-position: center;
+          border-radius: 15%;
+       
+          display: inline-block;
+          overflow: hidden;
+      
+          border:2px solid #c9c7c7;
+  
+    
+        }
+        .castButton {
+          margin: 0 auto;
+          width: 200px;
+          height: 200px;
+          border-radius: 10%;
+          opacity: 0;
+          position: relative;
+          cursor: pointer;
+        }
+        .castName {
+          margin: 0 auto;
+          width: 200px;
+          height: 30px;
+          text-align: center;
+          font-weight: 600;
+          font-size: 1.2rem;
+          border-top: 2px solid #555;
+          font-family: 'Dancing Script', cursive;
+          padding: 0 11px;
+          padding-top: 7px;
+        }
+#videos {
+  
+  width: 100%;
+  margin-left: 11px;
+}
+  .trailer {
+    position:absolute;
+    left:50px;
+    margin: 0 auto;
+    width: 315px;
+    height: 177px;
+    border: 1px solid #222;
+    border-radius: 8px;
+    margin-top: 7px;
+  }
+/* called a breakpoint - like an if condition! */
+@media screen and (max-width: 3840px) {
+  body {
+    background-image: url("https://images.pexels.com/photos/4722577/pexels-photo-4722577.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260");
+    
+  margin: 0 auto;
+  }
+  header {
+
+   background: url("https://images.pexels.com/photos/4340053/pexels-photo-4340053.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260");
+  background-size: cover;
+  background-position-y: -1240px;
+      margin: 0 auto;
+      background-repeat: no-repeat;
+  }
+
+}
+@media screen and (max-width: 1166px) {
+  body {
+    background-image: url("https://images.pexels.com/photos/4722577/pexels-photo-4722577.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260");
+    
+  margin: 0 auto;
+  }
+  header {
+    background: url("https://images.pexels.com/photos/4340053/pexels-photo-4340053.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260");
+  background-size: cover;
+  background-position-y: -400px;
+      margin: 0 auto;
+      background-repeat: no-repeat;
+  }
+
+}
+@media screen and (max-width: 682px) {
+  body {
+    background-image: url("https://images.pexels.com/photos/4722577/pexels-photo-4722577.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260");
+    display: block;
+  margin: 0 auto;
+  }
+  header {
+    background: url("https://images.pexels.com/photos/4340053/pexels-photo-4340053.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260");
+  background-size: cover;
+      margin: 0 auto;
+      display: block;
+      background-position-y: -550px;
+      
+  }
+
+}
+@media screen and (max-width: 340px) {
+  body {
+    background-image: url("https://images.pexels.com/photos/4722577/pexels-photo-4722577.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260");
+    display: block;
+  margin: 0 auto;
+  }
+  header {
+    background: url("https://images.pexels.com/photos/4340053/pexels-photo-4340053.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260");
+  background-size: cover;
+      margin: 0 auto;
+      display: block;
+      background-position-y: -550px;
+    
+  }
+
+}
+
+@keyframes glow {
+  from {
+    text-shadow:
+    0 0 6px rgba(202,228,225,0.92),
+    0 0 30px rgba(202,228,225,0.34),
+    0 0 34px rgba(30,132,242,0.78),
+    0 0 54px rgba(30,132,242,0.92);
+  }
+  to {
+    text-shadow:
+    0 0 6px rgba(202,228,225,0.98),
+    0 0 30px rgba(202,228,225,0.42),
+    0 0 38px rgba(30,132,242,0.88),
+    0 0 60px rgba(30,132,242,1);
+  }
+}
+
+@keyframes glow {
+  from {
+    text-shadow:
+    0 0 6px rgba(202,228,225,0.92),
+    0 0 30px rgba(202,228,225,0.34),
+    0 0 34px rgba(30,132,242,0.78),
+    0 0 54px rgba(30,132,242,0.92);
+  }
+  to {
+    text-shadow:
+    0 0 6px rgba(202,228,225,0.98),
+    0 0 30px rgba(202,228,225,0.42),
+    0 0 38px rgba(30,132,242,0.88),
+    0 0 60px rgba(30,132,242,1);
+  }
+}
+
+@keyframes breathing {
+  0% {-webkit-box-shadow: 0px 0px 15px  #b5e4ff;box-shadow: 0px 0px 20px  #301ca5;}
+  40% {-webkit-box-shadow: 0px 0px 30px  #4533a8;box-shadow: 0px 0px 20px  #bec76f;}
+  60% {-webkit-box-shadow: 0px 0px 10px  #440bdf;box-shadow: 0px 0px 10px  #4f5a50;}
+}
+
+
+#wrapper {
+
+ 
+  margin: 0 auto;
+}
+#ActorImg{
+  margin: auto auto;
+  text-align: center;
+  padding-right: 1860px;
+  padding-top: 80px;
+ 
+}
+#ActorImage {
+
+  margin: 0 auto;
+  width: 320px;
+  height: 480px;
+
+  border-radius: 12px;
+  border: 2px solid #fff;
+  border: 1px solid rgb(209, 209, 19);
+  border-color: #353833;
+  box-shadow: 0 0 35px #a5a891;
+
+  -webkit-animation: breathing 3s infinite;
+  animation: breathing 5s infinite;
+
+
+}
+
+#ActorInfoBackground{
+
+    margin: 0 auto;
+    width: 80%;
+    height: 60%;
+    position:absolute;
+
+    top:530px;
+    left:420px;
+
+    padding: 50px;
+    float: left;
+    
+    border-radius: 23px;
+    background: rgba(192, 188, 188, 0.67);
+    border: 1.5px solid rgb(204, 204, 119);
+    border-color: #10110f;
+    box-shadow: 0 0 30px #a5a891;
+}
+#ActorInfo{
+
+    margin: 0 auto;
+    width: 80%;
+    position:absolute;
+    top:500px;
+    left:420px;
+    padding: 50px;
+    text-align:justify;
+    float: left;
+    font-size: 1.5em;
+    
+    
+}
+
+#HeaderActorname{
+  -webkit-text-stroke-width: 0.3px;
+  -webkit-text-stroke-color: rgb(27, 5, 5);
+  animation: glow .08s ease-in-out infinite alternate;
+  color: #0f0f0e;
+}
+#HeaderActorBio{
+
+  color: #0f0f0e;
+
+
+}
+
+

@@ -1,0 +1,122 @@
+﻿
+@page
+@model IndexModel
+
+@{
+    string path = "https://image.tmdb.org/t/p/w500";
+    string backdrop_path = "https://image.tmdb.org/t/p/w1920_and_h800_multi_faces" +
+        Model.backdropPath;
+}
+
+
+<div id="wrapper">
+<div id="search">
+    <form method="POST" asp-page-handler="Search">
+        <input id="searchBox" type="text" name="search" placeholder="Movie search...">
+    </form>
+
+
+
+<div id="upcoming">
+    <form method="POST" asp-page-handler="GetDetails">
+        @for(int i = 0; i < Model.UPCOMING_MAX_RESULTS; i++) {
+            string posterPath = "";
+            if(Model.posterURLs[i] != null) {
+                posterPath = path + Model.posterURLs[i];
+                <div class="upcomingThumb" style="background: url(@posterPath); 
+                    background-size: 100%;" title="@Model.overviews[i]">
+                    <input type="submit" class="upcomingThumbButton" name="movieID" 
+                        value="@Model.movieIDs[i]" />
+                </div>
+            }
+            else {
+                // do nothing incomplete data!
+            }
+        }
+    </form>
+</div>
+</div>
+
+</div>
+
+<div id="posters">
+    <form method="POST" asp-page-handler="GetDetails">
+        @for(int i = 0; i < Model.MAX_RESULTS; i++) {
+            string posterPath = "";
+            if(Model.posterURLs[i] != null) {
+                posterPath = path + Model.posterURLs[i];
+                <div class="thumb" style="background: url(@posterPath); 
+                    background-size: 100%;" title="@Model.overviews[i]">
+                    <input type="submit" class="thumbButton" name="movieID" 
+                        value="@Model.movieIDs[i]" />
+                </div>
+            }
+            else {
+                // do nothing incomplete data!
+            }
+        }
+    </form>
+</div>
+
+<!--### movie details ###-->
+
+@if(Model.backdropPath != "") {
+    <div id="details" style="background: url(@backdrop_path); 
+        background-size: contain; background-repeat: no-repeat;">
+        
+        <div id="detailsCover">
+            <div id="leftDetails">
+                @{
+                    string lastPosterPath = "https://image.tmdb.org/t/p/w500" +
+                        Model.fullsizedPoster;
+                }
+                <div class="fullsizedPoster" style="background: url(@lastPosterPath); 
+                    background-size: 100%;">
+                </div>
+                <div id="videos">
+                    @for (int i = 0; i < Model.MAX_VIDEO_COUNT; i++) {
+                        string youtubePath = "https://www.youtube.com/embed/" + @Model.videoIDs[i];
+                        <iframe class="trailer" 
+                            src="@youtubePath" 
+                            title="YouTube video player" 
+                            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+                            allowfullscreen>
+                        </iframe>
+                    }
+                </div>
+            </div>
+            <div id="rightDetails">
+                <h1>@Model.movieTitle (@Model.releaseDate)</h1>
+                <h2>@Model.tagline</h2>
+                <p>@Model.overview</p>
+                <p class="heroText">Budget: @string.Format("{0:C}", Model.budget)</p>
+                <p class="heroText">Earnings: @string.Format("{0:C}", Model.revenue)</p>
+                <p>Vist the offical @Model.movieTitle homepage: 
+                    <a id="homepage" href="@Model.homepage" title="Visit Movie Homepage" target="_blank">
+                        here
+                    </a>
+                </p>
+                <!-- Cast Pictures/Slider -->
+                <div id="castSlider">
+                    <form method="POST" asp-page-handler="GetActorDetails">
+                        @for(int i = 0; i < Model.castNames.Count; i++) {
+                            string castPic = "";
+                            castPic = path + Model.castPics[i];
+                            <div class="castCard">
+                                <div class="castImage" style="background: url(@castPic); 
+                                    background-size: 100%;">
+                                    <input type="submit" class="castButton" name="castID" 
+                                        value="@Model.castIDs[i]" />
+                                </div>
+                                <div class="castName">
+                                    <p>@Model.castNames[i]</p>
+                                </div>
+                            </div>
+                        }
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+}
